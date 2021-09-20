@@ -1,2 +1,2 @@
 # BouncingMath
-This repository co
+This repository contains a console Math Game developed in python.
